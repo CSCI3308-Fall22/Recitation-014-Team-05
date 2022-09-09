@@ -1,6 +1,5 @@
 # lab2-project-requirements-recitation-014-Team-05
-Project Team Members:
-Olivia Milas
+Project Team Members: Olivia Milas
 
 Group 05
 Lab 2 Names and Usernames:
