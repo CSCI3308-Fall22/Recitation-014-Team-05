@@ -13,4 +13,4 @@ Lab 2 Names and Usernames:
 - Olivia Milas-omilas47 
 - Leonardo Tellez-leteg3n 
 
-demo edit
+conflict resolve
