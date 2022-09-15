@@ -1,6 +1,6 @@
 # lab2-project-requirements-recitation-014-Team-05
 
-Project Team Members:
+Project Team Members:Olivia Milas
 Olivia Milas
 Leonardo Tellez
 Liam McChesney
